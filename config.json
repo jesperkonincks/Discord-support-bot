@@ -1,0 +1,25 @@
+{
+  "prefix": "?",
+  "token": "Njk0MjAxNjgxNDMyNTQzMzA0.XoILsg.yyWIefdKUIRS00zResPFHpFHc_I",
+  "botStatus": "👋 Need any help?",
+
+  "supportCat": "741284216473387078",
+  "supportMessage": "741210330247594036",
+  "supportRole": "694259190482337814",
+  "supportEmbedColor": "#F39237",
+
+  "openTicketEmote": "🎫",
+  "closeTicketEmote": "✅",
+
+  "openTicket": "Er staat nog een ticket open, sluit deze eerst voordat je een nieuwe aanmaakt.",
+
+  "newTicketSuffix": "s-ticket",
+  "newTicketTitle": "Support Ticket ",
+  "newTicketDesc": "Leg hier kort jouw probleem uit, je zult z.s.m. geholpen worden.",
+  "newTicketColor": "#40BCD8",
+
+  "closingTicket": "Ticket sluit over 5 seconden",
+  "openTicketText": "Druk op de onderstaande emoji (🎫) om een ticket aan te maken.",
+
+  "noPermissions": "No no noooo!"
+}
